@@ -10,6 +10,7 @@ namespace PushingGitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello GitHub!");
         }
     }
 }
